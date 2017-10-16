@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charest='UTF8'>
+<title>Page Title</title>
+</head>
+<body>
+<a id="first">First Section</a>
+<hr>
+<br>
+<a href="http://www.nttu.edu.tw"></a>
+<h1>this is page1</h1>
+<a href="2017.10.16-7-2.html">go to 2017.10.16-2</a>
+<p>I have a pen 1</p>
+<p>Ihave an aplle 2</p>
+<h2>February</h2>
+<p>pineapple pen</p>
+<p>apple pen</p>
+<h3>March</h3>
+<h4>April</h4>
+<h5>May</h5>
+<h6>June</h6>
+<br>
+<a href="http://www.nttu.edu.tw"target='_blank'>This is a link</a>
+<a href="#first">Go To First Section</a>
+</body>
+</html>
