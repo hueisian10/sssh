@@ -1,0 +1,17 @@
+<style>
+#header{height: 608px;border-image: url("mayday-1.jpg");background-repeat: no-repeat;background-size: cover;}
+#article{height: 400px;background-color: lightblue;}
+#footer{height: 75px;background-color:e6e6e6;}
+</style>
+<body>
+<div id="header">
+<h1>Header</h1>
+</div>
+<div id="article">
+<h1>Article</h1>
+<p>Put your content here</p>
+</div>
+<div id="footer">
+<h1>Footer</h1>
+</div>
+</body>
