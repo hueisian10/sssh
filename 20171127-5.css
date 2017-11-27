@@ -1,0 +1,4 @@
+<style>
+#header{height:150px;background-image:url("image.jpg");background-repeat:no-repeat;background-size:cover;}
+#article{height:400px;background-color:lightblue;text-indent:200px;}
+#footer{height:75px;background-color:#e6e6e6;text-align:center;}
